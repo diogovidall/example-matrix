@@ -1,4 +1,4 @@
-
+package examples;
 /*
 4) Elaborar um programa que solicita que o usuário digite um número n, que de
 que 1 e menor do que 6. Em seguida, crie uma matriz n x n de números intei

@@ -1,4 +1,4 @@
-/*
+package examples;/*
 2)Elabore um método exibeMatriz, que recebe uma matriz de inteiros e exibe seus valores em
 forma de matriz. Escreva no main o código que leia os valores de duas matrizes 2x3 de
 inteiros. Depois calcule a soma dessas duas matrizes, armazenando a soma em uma terceira

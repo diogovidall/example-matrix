@@ -1,4 +1,4 @@
-/*
+package examples;/*
 5) Elaborar um método quadradoMagico, que recebe uma matriz de inteiros e devolve true se ela
 for um quadrado mágico e false caso contrário. Para que seja considerado um quadrado
 mágico, a soma dos elementos de cada linha deve ser a mesma, e deve ser igual à soma dos

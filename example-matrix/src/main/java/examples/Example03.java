@@ -1,4 +1,4 @@
-/*
+package examples;/*
 3)Elabore um programa em Java que leia os valores de uma matriz 3x3 de inteiros. Crie um vetor
 de 3 elementos, contendo o total de cada coluna e exiba os valores desse vetor.
  */

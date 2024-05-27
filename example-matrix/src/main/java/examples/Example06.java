@@ -1,4 +1,4 @@
-/*
+package examples;/*
 6) Solicitar que o usuário digite o valor maxAluno, que deverá ser um número inteiro maior ou
 igual a 5 e menor ou igual a 15. Enquanto o usuário não digitar um valor válido, solicitar que
 digite novamente.
