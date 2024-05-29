@@ -33,8 +33,8 @@ public class Example06 {
         do {
             System.out.print("Digite o número de alunos (entre 5 e 15): ");
             maxAluno = scanner.nextInt();
-        } while (maxAluno < 5 || maxAluno > 15);
 
+        } while (maxAluno < 5 || maxAluno > 15);
         // Passo 2: Criar os vetores e a matriz necessários
         String[] aluno = new String[maxAluno];
         double[][] notas = new double[maxAluno][2]; // 2 colunas para as notas AC1 e AC2
