@@ -16,13 +16,13 @@ public class Example03 {
     }
 
     public static int[] exibeColunas(int[][] matriz){
-        int numColunas = matriz[0].length; // Assumindo que todas as linhas têm o mesmo número de colunas
+        int numColunas = matriz[0].length;
         int[] tamanhos = new int[numColunas];
 
         for (int coluna = 0; coluna < numColunas; coluna++) {
             int tamanhoColuna = 0;
             for (int linha = 0; linha < matriz.length; linha++) {
-                tamanhoColuna++; // Incrementa o tamanho da coluna para cada elemento na linha
+                tamanhoColuna++;
             }
             tamanhos[coluna] = tamanhoColuna;
         }
